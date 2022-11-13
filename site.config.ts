@@ -17,9 +17,9 @@ export default siteConfig({
   description: '分享世界，Share the world！',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'kooshare',
+  github: 'kooshare',
+  // linkedin: '#',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
